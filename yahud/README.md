@@ -1,4 +1,4 @@
-note from steve: i have some custom elements in this hud. please see [the original repo](https://github.com/Hypnootize/Yahud-CMYK/) for more info
+**note from steve:** i have some custom elements in this hud. please see [the original repo](https://github.com/Hypnootize/Yahud-CMYK/) for more info
 
 # Yahud CMYK
 
