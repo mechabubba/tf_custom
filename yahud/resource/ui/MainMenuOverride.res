@@ -119,6 +119,15 @@
 		}
 	}	
 
+	"DashboardDimmer"
+	{
+		"xpos" "0"
+		"ypos" "0"
+		"wide" "f0"
+		"tall" "f0"
+		"paintborder" "0"
+	}
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
