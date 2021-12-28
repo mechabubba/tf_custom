@@ -1,1 +1,0 @@
-https://www.teamfortress.tv/25647/no-explosion-smoke-script
